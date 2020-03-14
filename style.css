@@ -1,0 +1,125 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #F6F6F6;
+}
+a:hover {
+    background-color:#D30C0C!important;
+}
+.nav {
+    background-color: bisque;
+    padding: 10px;
+    box-shadow: 0px 0px 6px grey
+}
+.nav li {
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 40px;
+}
+.nav img {
+    width: 70px;
+}
+.nav p {
+    position: absolute;
+    margin-top: -50px;
+    font-size: 25px;
+    margin-left: -25px;
+    color: crimson;
+    font-weight: 600;
+    font-family: Calibri, sans;
+}
+.nav a {
+    outline: none;
+    margin-top: -50px;
+    margin-right: 20px;
+    float: right;
+    text-decoration: none;
+    color: black;
+    background-color: #FF5E5E;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-family: Calibri, sans;
+    font-size: 19px;
+    color: #fff;
+}
+.section2 {
+    width: 100%;
+    margin-top: 8%;
+    display: inline-flex;
+}
+.left-sec {
+    width: 50%;
+    margin-left: 10%;
+}
+.left-sec h1{
+    font-size: 50px;
+    font-family: Calibri, sans;
+}
+.left-sec h3 {
+    font-size: 35px;
+    font-family: Calibri, sans;
+    font-weight: 500;
+    color: grey;
+    margin-top: 5px;
+}
+.left-sec h4{
+    margin-top: 10px;
+    font-weight: 500;
+    font-family: Calibri, sans;
+}
+.left-sec a{
+    outline: none;
+    text-decoration: none;
+    color: black;
+    background-color: #FF5E5E;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-family: Calibri, sans;
+    font-size: 19px;
+    color: #fff;
+    margin-top: 20px;
+    position: absolute;
+}
+.right-sec{
+    width: 50%;
+    margin-top: -40px;
+    height: auto;
+}
+.right-sec img {
+    width: 80%;
+    border-radius: 5px;
+}
+.section3 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.section4 li {
+    list-style-type: none;
+    display: inline-flex;
+    width: 25%;
+    margin-left: 6%;
+    margin-top: 5px;
+}
+.section4  h3 {
+    font-family: Calibri, sans;
+    color: #FF5E5E;
+    margin-bottom: 10px;
+}
+.section4 p {
+    font-family: Calibri, sans;
+    font-size: 14px;
+    padding: 3px;
+    opacity: 0.9;
+}
+.footer {
+    text-align: center;
+    padding: 2%;
+    margin-top: 40px;
+    background-color: bisque;
+    color: #FF5E5E;
+    font-family: Calibri, sans;
+}

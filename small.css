@@ -1,0 +1,30 @@
+@media (max-width: 600px) {
+    .right-sec {
+        width: 100%;
+        margin-top: 70px;
+        justify-content: center;
+    }
+    .right-sec img {
+        width: 100%;
+    }
+    .left-sec{
+        width: 80%;
+    }
+    .nav a{
+        display: none;
+    }
+    .nav{
+        text-align: center;
+        margin-left: -40%;
+    }
+    .section2 { 
+        display: inline-block;
+    }
+    .section3 img {
+        width: 100%;
+    }
+    .section4 li {
+        width: 90%;
+        display: block;
+    }
+}
